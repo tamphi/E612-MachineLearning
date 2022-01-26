@@ -1,6 +1,4 @@
-# E612-MachineLearning
-Code repo for ECE 612 - Machine Learning at Drexel University
-
+# Intro to Machine Learning Projects
 Projects ranging from using Random Forest Classifier to building CNN from scratch to classify MNIST dataset 
 
 Each folder contains:
